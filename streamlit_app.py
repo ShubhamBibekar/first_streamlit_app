@@ -33,13 +33,6 @@ except URLError as e:
   streamlit.error()
 
 #streamlit.write('The user entered ', fruit_choice)
- 
-
-# write your own comment -what does the next line do? 
-
-# write your own comment - what does this do?
-
-# stop streamlit
 
 streamlit.header("The fruit load list contains:")
 def get_fruit_load_list():
